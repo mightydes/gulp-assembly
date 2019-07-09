@@ -1,4 +1,4 @@
-# gulp-assembly
+# gulp-assembly-core
 
 Run gulp tasks in bundle way.
 
@@ -13,7 +13,7 @@ const config = {
     // ...
 };
 const utils = require('gulp-assembly-utils')(config);
-const Assembly = require('gulp-assembly');
+const Assembly = require('gulp-assembly-core');
 const assembly = new Assembly({utils: utils});
 
 // Register `website` bundle.

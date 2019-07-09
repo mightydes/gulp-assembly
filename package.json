@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "name": "gulp-assembly",
+  "version": "1.0.1",
+  "name": "gulp-assembly-core",
   "description": "Assembly gulp bundles.",
   "keywords": [
     "gulp",
@@ -13,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com:mightydes/gulp-assembly.git"
+    "url": "git://github.com:mightydes/gulp-assembly-core.git"
   },
-  "homepage": "https://github.com/mightydes/gulp-assembly",
+  "homepage": "https://github.com/mightydes/gulp-assembly-core",
   "bugs": {
-    "url": "https://github.com/mightydes/gulp-assembly/issues"
+    "url": "https://github.com/mightydes/gulp-assembly-core/issues"
   },
   "license": "MIT",
   "main": "src/index.js",
