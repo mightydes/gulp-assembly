@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "name": "gulp-assembly",
+  "description": "Assembly gulp bundles.",
+  "keywords": [
+    "gulp",
+    "assembly",
+    "bundle"
+  ],
+  "author": {
+    "name": "Lev Nazarenko",
+    "email": "lynazarenko@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:mightydes/gulp-assembly.git"
+  },
+  "homepage": "https://github.com/mightydes/gulp-assembly",
+  "bugs": {
+    "url": "https://github.com/mightydes/gulp-assembly/issues"
+  },
+  "license": "MIT",
+  "main": "src/index.js",
+  "dependencies": {
+    "gulp": "^3.9",
+    "gulp-assembly-utils": "^1.0",
+    "underscore": "^1.8"
+  },
+  "devDependencies": {}
+}
